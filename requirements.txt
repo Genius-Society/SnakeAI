@@ -1,10 +1,10 @@
-torch==2.3.1+cu118
-torchvision==0.18.1+cu118
--f https://mirrors.aliyun.com/pytorch-wheels/cu118
+torch==2.4.1+cu118
+-f https://download.pytorch.org/whl/torch
+torchvision==0.19.1+cu118
+-f https://download.pytorch.org/whl/torchvision
 pygame==2.1.2
 pandas==1.5.2
 seaborn==0.12.1
 matplotlib==3.6.2
 pillow==10.3.0
 modelscope[framework]==1.18
-tqdm
