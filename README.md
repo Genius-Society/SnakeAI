@@ -18,7 +18,7 @@ The current algorithm still suffers from the flaw of the snake not being able to
 
 ## 代码下载 Code download
 ```bash
-git clone -b qt https://github.com/Genius-Society/SnakeAI.git
+git clone -b qt git@github.com:Genius-Society/SnakeAI.git
 cd SnakeAI
 ```
 
