@@ -6,17 +6,17 @@
 
 This project aims to use deep reinforcement learning (DRL) to play Snake game automatically. The core DRL method used here is PPO for discrete, which has brilliant performance in the field of discrete action space like in continuous action space. You just need half an hour to train the snake agent and then it can take effect.
 
-## Download
-```bash
-git clone git@github.com:Genius-Society/SnakeAI.git
-cd SnakeAI
-```
-
 ## Requirements
 ```bash
 conda create -n py311 python=3.11 -y
 conda activate py311
 pip install -r requirements.txt
+```
+
+## Code download
+```bash
+git clone git@github.com:Genius-Society/SnakeAI.git
+cd SnakeAI
 ```
 
 ## Usage
@@ -47,10 +47,13 @@ python plot.py # --history ./logs/reward_round3_82.5.csv
 | Avg record   |                                                       ≈19                                                        |                                                       ≈23                                                        |                                                       ≈28                                                        |
 
 ## Conclusions
-1. Increasing the penalty for death leads to higher average records
-2. The training result of the low death penalty strategy has a low reward curve, but it performs well in the demo
-3. A particularly high reward for eating food can lead to quick success regardless of long-term safety
+- Increasing the penalty for death leads to higher average records
+- The training result of the low death penalty strategy has a low reward curve, but it performs well in the demo
+- A particularly high reward for eating food can lead to quick success regardless of long-term safety
 
 ## Future work
-1. Training time is too short to reflect the advantages of DRL compared to none-DRL method ([Snaqe](https://github.com/Genius-Society/SnakeAI/tree/qt))
-2. The zigzag of snake body looks ugly, try to add punishment into reward for too many zigzags
+- Training time is too short to reflect the advantages of DRL compared to none-DRL method ([Snaqe](https://github.com/Genius-Society/SnakeAI/tree/qt))
+- The zigzag of snake body looks ugly, try to add punishment into reward for too many zigzags
+
+## Thanks
+- <https://github.com/ZYunfeii/DRL4SnakeGame>
