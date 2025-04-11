@@ -1,6 +1,6 @@
 # Snaqe
 [![license](https://img.shields.io/github/license/Genius-Society/SnakeAI.svg)](https://github.com/Genius-Society/SnakeAI/blob/qt/LICENSE)
-[![Build status](https://ci.appveyor.com/api/projects/status/y5q3wsmkp48a4yy0?svg=true)](https://ci.appveyor.com/project/Genius-Society/SnakeAI)
+[![Build status](https://ci.appveyor.com/api/projects/status/y5q3wsmkp48a4yy0/branch/qt?svg=true)](https://ci.appveyor.com/project/Genius-Society/snakeai/branch/qt)
 [![itch](https://img.shields.io/badge/release-itch.io-fa5c5c.svg)](https://genius-society.itch.io/snakeai)
 [![bili](https://img.shields.io/badge/bilibili-BV1bqrgYXEsn-fc8bab.svg)](https://www.bilibili.com/video/BV1bqrgYXEsn)
 
