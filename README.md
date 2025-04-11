@@ -1,8 +1,8 @@
 # Snaqe
-[![license](https://img.shields.io/github/license/Genius-Society/SnakeAI.svg)](https://github.com/Genius-Society/SnakeAI/blob/qt/LICENSE)
+[![license](https://img.shields.io/github/license/Genius-Society/SnakeAI.svg)](./LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/y5q3wsmkp48a4yy0/branch/qt?svg=true)](https://ci.appveyor.com/project/Genius-Society/snakeai/branch/qt)
 [![itch](https://img.shields.io/badge/release-itch.io-fa5c5c.svg)](https://genius-society.itch.io/snakeai)
-[![bili](https://img.shields.io/badge/bilibili-BV1bqrgYXEsn-fc8bab.svg)](https://www.bilibili.com/video/BV1bqrgYXEsn)
+[![bili](https://img.shields.io/badge/bilibili-BV1bqrgYXEsn-fc8bab.svg)](https://www.bilibili.com/video/BV1bqrgYXEsn/?p=2)
 
 基于 `A* + Hamilton` 算法、在 Qt(C++) 框架下开发的贪吃蛇 AI: 它使用非机器学习的经典寻路算法 A* 和 Hamilton 通路实现贪吃蛇的自动通关。游戏本体由 C++ 版的 Qt 框架搭建，在游戏本体上进一步添加了 AI 代码。
 
