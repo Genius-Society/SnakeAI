@@ -206,3 +206,4 @@ Release/*
 .vs/*
 __pycache__/*
 rename.sh
+test.*
