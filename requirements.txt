@@ -1,6 +1,6 @@
 matplotlib
 modelscope[framework]
-pandas==1.5.2
+pandas==1.5.3
 pillow==10.3.0
 pygame
 seaborn==0.12.1

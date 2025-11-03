@@ -1,8 +1,8 @@
-__pycache__/*
+*__pycache__*
 history/*
 Snaqe/*
 rename.sh
-test.py
+test.*
 Snaqe.sdf
 .vs/*
 Release/*
