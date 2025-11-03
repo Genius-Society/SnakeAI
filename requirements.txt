@@ -1,9 +1,8 @@
-torch==2.6.0+cu118
-torchvision==0.21.0+cu118
--f https://mirrors.aliyun.com/pytorch-wheels/cu118
-pygame==2.1.2
+matplotlib==3.6.2
+modelscope[framework]
 pandas==1.5.2
 pillow==10.3.0
+pygame==2.1.2
 seaborn==0.12.1
-matplotlib==3.6.2
-modelscope[framework]==1.18
+torch
+torchvision
